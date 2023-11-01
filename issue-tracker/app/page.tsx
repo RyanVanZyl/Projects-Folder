@@ -1,8 +1,8 @@
 import React from 'react'
-
+import { Flex, Text, Button } from '@radix-ui/themes';
 const page = () => {
   return (
-    <div>This is The Home Page</div>
+    <div><button>New Issue</button></div>
   )
 }
 
